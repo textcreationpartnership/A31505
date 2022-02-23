@@ -1,0 +1,170 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Certain proposals of divers clerks and attorneys of the Court of Common Pleas for the taking away fines upon original writs and damage cleer and regulating the proceedings of law and remedying some inconveniences ... / presented to the Right Honourable the Lords and Commons assembled in Parliament.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1661</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A31505</idno>
+            <idno type="STC">Wing C1729</idno>
+            <idno type="STC">ESTC R35481</idno>
+            <idno type="EEBO-CITATION">15345264</idno>
+            <idno type="OCLC">ocm 15345264</idno>
+            <idno type="VID">103435</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A31505)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 103435)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1147:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Certain proposals of divers clerks and attorneys of the Court of Common Pleas for the taking away fines upon original writs and damage cleer and regulating the proceedings of law and remedying some inconveniences ... / presented to the Right Honourable the Lords and Commons assembled in Parliament.</title>
+               </titleStmt>
+               <extent>[6], 8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by R.W. for Francis Tyton ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1662.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Civil procedure --  England.</term>
+               <term>Equity pleading and procedure --  England.</term>
+               <term>Law reform --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:103435:1" rendition="simple:additions"/>
+            <p>CERTAIN PROPOSALS OF DIVERS Clerks and Attorneys Of the COURT of COMMON-PLEAS, For the taking away Fines upon Original Writs and damage cleer, and Regulating the Proceedings at Law, and remedying ſome Inconveniences.</p>
+            <p>Whereby the Client will be much ſecured, the Proceſs ſhortened, the greateſt part of the charge of moſt Suits abated, and many unneceſſary Suits in Law and Equity prevented.</p>
+            <p>
+               <hi>Which is the End and Deſire of the Propoſers.</hi>
+            </p>
+            <p>Preſented to the Right Honourable the Lords and Com<g ref="char:EOLhyphen"/>mons aſſembled in Parliament.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>J. Starkey</hi> at the <hi>Mitre</hi> in <hi>Fleetſtreet</hi> near <hi>Temple-Bar.</hi> 1661.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:103435:2"/>
+            <pb facs="tcp:103435:2"/>
+            <head>TO THE RIGHT HONOURABLE THE LORDS and COMMONS Aſſembled in PARLIAMENT.</head>
+            <opener>
+               <salute>May it pleaſe your Honours,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He humble Propoſers obſerving ſome unneceſſary charges and delay, introduced by the cor<g ref="char:EOLhyphen"/>ruption and multitude of Of<g ref="char:EOLhyphen"/>fices and Officers, which ſtill increaſed, beſides ſome incon<g ref="char:EOLhyphen"/>veniences that the corrup<g ref="char:EOLhyphen"/>tion of time had produced, the ſame being more obvious to them than others, by reaſon of their experience in the practice of the Law: for remedy thereof conſulted how to apply themſelves to the Parlia<g ref="char:EOLhyphen"/>ment; and to that purpoſe had ſeverall meetings together, wherein the Propoſals now preſented to your view were agreed on, as things that would conduce much to the eaſe, benefit, and ſafety of
+<pb facs="tcp:103435:3"/>the Suitor, make good proviſion againſt the moſt generall inconveniences, prevent many frivolous and unneceſſary Suits, ſhorten the proceſs in many, and eaſe the charge in all; and (which is not the leaſt of their ambition) take away thoſe Aſperſions that ſeem to blemiſh that Law, the Law of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> which they humbly conceive to be the moſt perfect Law of any humane Law in the World; a Law that admits <hi>Nullum abſurdum,</hi> nothing againſt the Laws of God or Nature, againſt Rea<g ref="char:EOLhyphen"/>ſon, or repugnant to any other Learning; wherein all matters of Fact are adjudged and tried by Twelve able diſcreet and indifferent Neighbors to the place where the Matter of Fact ariſes; and the Matters of Law are debated, adjudged, and determined by as many of the moſt ancient, grave, and learned Lawyers of the Nation, who for their great experience, integrity and wiſdom, are firſt deſervedly called to the ſtate and degree of Ser<g ref="char:EOLhyphen"/>jeants at Law, and after to be Judges; and the proceſs of this Law is ſo quick, that it ſeldom happens any Cauſe at Law depends above three or four Terms: But Covetouſneſs, the root of all evil, having built ſome floud-gates upon the Channel thereof, whereby the Courſe hath been obſtructed, ſtopp'd, or diverted out of its due courſe, and thereby more care taken to catch the Fiſh for the benefit of the Officers, than for the diſpatch and advance of the Clients buſineſs; and the Propoſers being unwilling to treſpaſs upon the Freehold of others by pulling down the Wares themſelves, have by the drawing the Channel a nearer way in ſome
+<pb facs="tcp:103435:3"/>Caſes, and in other upon a lower flat, have never<g ref="char:EOLhyphen"/>theleſs ſo ordered the buſineſs, as they humbly conceive that moſt of the Griſt will be ground without paying Toll at thoſe unneceſſary Mills. And becauſe Reformation wreſtles with many dif<g ref="char:EOLhyphen"/>ficulties, it being hard to find an <hi>Epheſus</hi> without ſome <hi>Demetrius,</hi> or ſome Critick that will con<g ref="char:EOLhyphen"/>clude the Shrubs ſeek the fall of the Cedars, ho<g ref="char:EOLhyphen"/>ping thereby to advance their own tops. The Pro<g ref="char:EOLhyphen"/>poſers have been very tender not to propoſe any thing that may in the leaſt degree ſeem to advance their own Intereſts, but many things that will turn to their particular loſs, they alwayes prefer<g ref="char:EOLhyphen"/>ring the publick good before their own particular intereſts. Neither have they raſhly herein pro<g ref="char:EOLhyphen"/>ceeded, having ſpent many months in the Concep<g ref="char:EOLhyphen"/>tion, digeſting, conſidering, and compoſing of what they now preſent to your more grave conſi<g ref="char:EOLhyphen"/>derations; and as they are not the iſſues of raſh brains, ſo they have not paſſed without peruſall and correction of many others of good judgement and experience, and are now to live and die un<g ref="char:EOLhyphen"/>der your Honourable cenſures: whereby if you ſhall receive any light to the furthering the good work in hand, or the Republick any benefit, the Propoſers have their wiſhed ends, and humbly therein ſubmit themſelves and theſe their poor la<g ref="char:EOLhyphen"/>bours to your better judgements, by the hands of the moſt humble of</p>
+            <closer>
+               <signed>Your Servants.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:103435:4"/>
+            <pb n="1" facs="tcp:103435:4"/>
+            <head>THE HUMBLE PROPOSALS Of divers of the CLERKS and ATTORNEYS Of His Majeſties Court of COMMON-PLEAS.</head>
+            <p n="1">1. <seg rend="decorInit">T</seg>Hey humbly propoſe and con<g ref="char:EOLhyphen"/>ceive,<note place="margin">Theſe Fines are the 200th part of the thing deman<g ref="char:EOLhyphen"/>ded, beit land, debt, or dam<g ref="char:EOLhyphen"/>age, and muſt be paid at the Plaintiffs en<g ref="char:EOLhyphen"/>trance into his ſuit, though he never reco<g ref="char:EOLhyphen"/>ver any thing.</note> That Fines upon Origi<g ref="char:EOLhyphen"/>nal Writs are againſt the Fun<g ref="char:EOLhyphen"/>damental Reaſon of the Com<g ref="char:EOLhyphen"/>mon Lawes of this Realm, which never impoſeth Fines but upon Offendors: But theſe, <hi>Addere afflictionem afflict is,</hi> are exacted of the party injured, who comes to ſue for Juſtice, when the party de<g ref="char:EOLhyphen"/>linquent too oft eſcapes the puniſhment. And therefore they humbly propoſe that the ſame may be taken away, and no more payd or de<g ref="char:EOLhyphen"/>manded.</p>
+            <pb n="2" facs="tcp:103435:5"/>
+            <p n="2">2.<note place="margin">This is propo<g ref="char:EOLhyphen"/>ſed to prevent the charge &amp; delay which the Client is now at, who muſt be two Terms in ſu<g ref="char:EOLhyphen"/>ing to the Ut<g ref="char:EOLhyphen"/>lary, and is, beſides the delay, put to the charge of three <hi>Capias</hi>'s, which are commonly ſued forth altogether, and returned altogether in the Sheriffs name, but by the Attorney; but by this courſe of ſuing to the Utlary the proceſs will be a Term ſhorter, and 5 <abbr>
+                     <hi>s.</hi>
+                  </abbr> 10 <abbr>
+                     <hi>d.</hi>
+                  </abbr> leſs charge, beſides the Fine, if finable.</note> They humbly conceive, That the mean Proceſs in ſuing to the Utlary are unneceſſary, and do tend only to charge and delay: And therefore they humbly propoſe, that then the <hi>Exigent</hi> be awarded upon the return of the firſt <hi>Capias,</hi> as formerly upon the <hi>Plur. Capias,</hi> and as it is now uſed after judgement.</p>
+            <p n="3">3.<note place="margin">The Common bar and new Aſſignment puts the Cli<g ref="char:EOLhyphen"/>ents in every Action of treſ<g ref="char:EOLhyphen"/>paſs <hi>Quare clauſum fregit</hi> that comes to trial toat leaſt twelve ſhil<g ref="char:EOLhyphen"/>lings charge, and may be ſupplyed by three or four words in the Declaration, and put the the Client to no charge at all, and the recital of the Writ in many Actions al<g ref="char:EOLhyphen"/>moſt doubles the charge to the Client, and is uſeleſs.</note> They humbly conceive, That the common Bar and new aſſignment in Actions of Treſpaſs, <hi>Quare clauſum fregit,</hi> and the recital of the Ori<g ref="char:EOLhyphen"/>ginal Writ in Actions of Treſpaſs, and upon the Caſe, and ſeveral other Actions are ſuperfluous things, and infinitely increaſe the charge of the Client: They therefore humbly propoſe, That in all Actions of Treſpaſs, <hi>Quare cauſum fregit,</hi> the place may be aſſigned in the Count. And that for the future there may be no more reci<g ref="char:EOLhyphen"/>tal of the Original Writ, other than in the form enſuing, that is to ſay; <hi>A. B. attach. fuit ad re<g ref="char:EOLhyphen"/>ſpondend. C. D. de placito tr.</hi> or, <hi>de placito tr. ſuper caſum,</hi> or the like, as is obſerved in the Kings Bench; and the Originals in all perſonal Actions to be made accordingly without repeti<g ref="char:EOLhyphen"/>tion of the ſpecial matter.</p>
+            <p n="4">4. They humbly conceive, that by reaſon O<g ref="char:EOLhyphen"/>riginal Writs are not duly ſued forth and filed, many Judgements are dayly reverſed, and in the
+<pb n="3" facs="tcp:103435:5"/>time to come are ſubject to the like inconveni<g ref="char:EOLhyphen"/>ence by the careleſneſs, neglect,<note place="margin">Many Judge<g ref="char:EOLhyphen"/>ments are dai<g ref="char:EOLhyphen"/>ly reverſed for want of Ori<g ref="char:EOLhyphen"/>ginals, which ſometimes happens, be<g ref="char:EOLhyphen"/>cauſe the At<g ref="char:EOLhyphen"/>torney rather than he will pay a <hi>poſt Terminum</hi> or more, which is 20 pence a Term, he will hazzard his Clients Cauſe, which Fee was original<g ref="char:EOLhyphen"/>ly intended as a puniſhment upon the At<g ref="char:EOLhyphen"/>torney for his neglect; but it turnes too oft to the deſtruction of the Client: and therefore the Propoſers have propoſed the puniſhment to return to the Clients relief, and not deſtruction. Other times this miſchief happens, becauſe an Attorney may perhaps forget in due time to ſue out the Original, and after when he ſees the default, he would amend it, but the Cur<g ref="char:EOLhyphen"/>ſitors holding a courſe for their own benefit that no Original Writ can be ſued forth returnable of a former Term, but within the firſt week of the enſuing Term, the Attorney is therefore reſtrained to do his duty to his Client.</note> or forgetfulneſs of the Attorney, or Clerk, or to ſave <hi>Poſt Terminums,</hi> which turns much to the prejudice of the Client: And therefore they humbly propoſe, That from henceforth there may be no reſtraint, but that the Plaintiff may at any time before the want thereof aſſigned for Error, ſue forth and file any original writ, or other writ, to make good or warrant any judgement. And that for the filing of Original Writs no <hi>Poſt Terminum</hi> be demanded or payd; and that then, if any judgement hap<g ref="char:EOLhyphen"/>pen to be reverſed for default of Original Writ, the Clerk or Attorney in whoſe default the ſame ſhall be, ſhall and may be fined in ſuch ſum to be payd to the party grieved, as the Court ſhall (having reſpect to the quality of the offence) think meet and impoſe.</p>
+            <p n="5">5. They humbly conceive alſo,<note place="margin">The Warrant of Attorney originally ſee<g ref="char:EOLhyphen"/>med of good uſe, but now it is only filed by the Attor<g ref="char:EOLhyphen"/>ney, and is of nonuſe at all, but puts the Client to ſome charges and much hazzard, for that the want thereof is ſufficient cauſe to reverſe a Judgement, and the filing now of no uſe.</note> that the not due filing of Warrants of Attorney, which through forgetfulneſs or careleſneſs is often neglected, is very dangerous to the Client, and yet of no benefit or uſe at all; and therefore they humbly ſubmit it to the judgement
+<pb n="4" facs="tcp:103435:6"/>of the Parliament whether the ſame be not fit to be diſcontinued, and the penal Statutes for the enjoying thereof repealed.</p>
+            <p n="6">6.<note place="margin">This is the moſt unreaſo<g ref="char:EOLhyphen"/>nable charge upon the Cli<g ref="char:EOLhyphen"/>ent that can be invented, which is the tench part of what damage ſoever the Plaintiff reco<g ref="char:EOLhyphen"/>vers: as if the Defendant up<g ref="char:EOLhyphen"/>on a bargain, promiſe to give the Plaintiff a 1000 <hi>li.</hi> which he recovers in damage, the Prothonotary ſhall bave a 100 <hi>li.</hi> and doth nothing for it, nor can juſtifie the giving of any coſts, for it was originally, as is conceived, exacted by the Clergy as a perſonal Tythe, the Clergy-men being the Clerks that writ to all, or moſt of the Courts at <hi>Weſtminſter.</hi>
+               </note> They humbly conceive, that <hi>Damage Cleare</hi> is both a great and unreaſonable burden to the Client, who after a long and tedious ſuit, muſt have his Debt, or other duty Tythed; a duty anciently belonging to the Clergy, but is now converted to an improper uſe (as they humbly conceive:) And therefore they humbly propoſe, that the ſame may be taken away, and no more payd or demanded.</p>
+            <p n="7">7.<note place="margin">If the Client, becauſe he can get no Proces ſerved upon the Defendant, be forced to ut<g ref="char:EOLhyphen"/>law him, and then be for<g ref="char:EOLhyphen"/>ced to ſeize his Land to force him in, the profit goes into the <hi>Exchequer,</hi> and the Client loſeth all, or elſe ſhall be put to the charge of a Leaſe, which will lie him in above 20 Marks, and 4 pounds, or thereabouts, yearly to continue it; and then if the party plead ſome ſeigned Title, or reverſe the Utlawry, all is loſt, and it is deſired, that if the Parliament conceive it fit, that this Propoſal be reduced to a Law, that care may be taken in the penning it, that the <hi>Exchequer</hi> Clerks may not evade it, for that lowable Laws will not hold them.</note> And whereas the Client is often enforced to utlaw the Defendant, by reaſon he abſents himſelf; and after a long, chargable and tedi<g ref="char:EOLhyphen"/>ous Suit, is put alſo to ſeize the Defendants E<g ref="char:EOLhyphen"/>ſtate, and expects thereby to receive the bene<g ref="char:EOLhyphen"/>fit of his Suit; when contrary to the poor Sui<g ref="char:EOLhyphen"/>tors expectation, the whole benefit is ſwept in<g ref="char:EOLhyphen"/>to the <hi>Exchequer.</hi> They therefore for remedy thereof, humbly propoſe, that the Plaintiff in ſuch caſes may have the benefit of all Seizures
+<pb n="5" facs="tcp:103435:6"/>upon Utlawries til his debt, or other damages with reaſonable coſts be ſatified and paid; and that to that end Proceſs may iſſue out of the Exche<g ref="char:EOLhyphen"/>quer, by which the Sheriff may be authorized, and commanded to deliver all ſuch Goods, and Chattels, and ſatisfie and pay all ſuch moneys by him to be levied to the Plaintiff, until he be ſatisfied of his debt or damages, with reaſonable coſts to be aſſeſſed by the ſaid Court; and that afterwards the Sheriff be accomptable in the Exchequer, for the profits, as before times hath been uſed.</p>
+            <p n="8">8. And alſo when as the Client having run over all the Proceſs, and having obtained judg<g ref="char:EOLhyphen"/>ment, and expecting his Execution thereupon, Writs of Error are often brought for delay, which, though we humbly conceive our former Propoſals will make good proviſion againſt, yet the ſame being a <hi>Superſedeas,</hi> and admitting long proceſs, it is often more coſtly and dange<g ref="char:EOLhyphen"/>rous to the Client, than all that hath preceded; and though they humbly conceive Appeals juſt and uſefull, yet to prevent the inconveniences thereof, they humbly propoſe, That no <hi>Superſe<g ref="char:EOLhyphen"/>deas</hi> upon a Writ of Error be from henceforth made forth or allowed, but that the Court where the original Judgement was entred, may make forth Execution, as though no ſuch Writ of Error had been brought, or Record tranſcribed, unleſs the party proſecuting the ſame depoſite in Court the Money, or other Duty recovered, or give ſufficient bail, to ſatisfie the Judgement with the coſts and damage awarded, in caſe the ſame
+<pb n="6" facs="tcp:103435:7"/>Judgement be affirmed, or the Writ of Error diſcontinued or abated, or the Plaintiff therein non-ſuited; and that the death of any party to the ſaid ſuit ſhall not diſcharge ſuch bail; and that from henceforth no Writ of Error ſhall be received or allowed, unleſs the ſame be re<g ref="char:EOLhyphen"/>turnable within eight daies, if there ſhall be ſo many in Term; and if there ſhall not happen to be eight daies in Term, then at the firſt return of the next enſuing Term; and that the Plain<g ref="char:EOLhyphen"/>tiff in ſuch Writ of Error ſhall without any <hi>Scire facias,</hi> aſſign his Errors within four daies after the return of the ſaid Writ, whereunto the Defen<g ref="char:EOLhyphen"/>dant in the ſaid Error may if he will appear <hi>gra<g ref="char:EOLhyphen"/>tis,</hi> and be at liberty to alledge dimunution, or joyn in iſſue, and proceed to the examination of the Errors; and that in caſe Judgement be af<g ref="char:EOLhyphen"/>firmed, and it appear any ſuch Writ of Error ſhall be brought meerly for delay, or that the matter aſſigned ſhall not be difficult, or abide ar<g ref="char:EOLhyphen"/>gument, then the party Plaintiff in the ſaid Writ of Error, to pay to the Defendant for his or their delay therein treble coſts and damage; and in caſe of Non-ſuit or diſcontinuance be<g ref="char:EOLhyphen"/>fore argument, double coſts; and in caſe of a<g ref="char:EOLhyphen"/>batement, or in ſuch caſes where the matter ſhall be difficult, ſingle coſts and damages; and that the parties may have thereof like execution as for the principle debt or damages.</p>
+            <p n="9">9. They humbly conceive it fit, that ſome le<g ref="char:EOLhyphen"/>gal courſe were provided for the recovery of Legacies, and that the Client ſhould not be for<g ref="char:EOLhyphen"/>ced
+<pb n="7" facs="tcp:103435:7"/>to an equitable courſe in <hi>Chancery</hi> for every petit Legacy,<note place="margin">There is (by reaſon the Ci<g ref="char:EOLhyphen"/>vil Law hath no compulſa<g ref="char:EOLhyphen"/>ry proceſs) no remedy, but in <hi>Chancery</hi> for Legacies, where if the Legacy be ſmall, it is quickly ſpent with a great overplus.</note> the remedy whereby often proves worſe than the diſeaſe. They therefore humbly propoſe, that an Action of Debt, Trover, Deti<g ref="char:EOLhyphen"/>nue, or other Action, as the Caſe requires, may lie at Common Law for the ſame, and that there<g ref="char:EOLhyphen"/>in the thing demanded upon due proof made upon the Tryal, may be recovered with coſts and damages, and like defence and proceſs may be had therein, as in ſuch other Actions are, or ſhall be uſed at Common Law.</p>
+            <p n="10">10.<note place="margin">As the Law now ſtands, the Heir may defeat all Cre<g ref="char:EOLhyphen"/>ditors, for if he fear the debts of the Anceſtor, he may alient the ſame day his Anceſtor dies, and leave the Creditor no <hi>medium</hi> to bring his A<g ref="char:EOLhyphen"/>ction, and though it is true that fraud may be averred, yet few frauds are hard to be proved.</note> They humbly conceive it very hard to the Creditor, that the bare alienation of an Heir ſhould defeat him of a juſt debt, the ſame being often done meerly in fraud, when perhaps the Creditors money purchaſed the land diſcending; and therefore they humbly propoſe, that an A<g ref="char:EOLhyphen"/>ction of debt may lie againſt the Heir in all ca<g ref="char:EOLhyphen"/>ſes, as well after as before alienation, and that his Perſon, Goods, and Land, may be ſubject to the execution for the debt of his Anceſtors upon ſpecialty, to the value of the land diſcending in Fee-ſimple, or Fee-tail: and that ſuch Action, and this propoſal, may (if the Parliament ſhall conceive meet) be extended to the heirs of Co<g ref="char:EOLhyphen"/>pyholders, as well as Freeholders.</p>
+            <p n="11">11. They humbly propoſe, that for the avoid<g ref="char:EOLhyphen"/>ing of unneceſſary and frivolous ſuits at Law, that it may be enacted, that if any Attorney or Sollicitor ſhall depoſite in the defence or proſe<g ref="char:EOLhyphen"/>cution of his Clients Cauſe, any other or larger
+<pb n="8" facs="tcp:103435:8"/>ſumm or ſumms, then ſo much as the charge there<g ref="char:EOLhyphen"/>of ſhall ſurmount unto in <hi>Eaſter</hi> Term, <hi>Trinity</hi> Term, and the ſhort Vacation, or in one other Term and Vacation, that then ſuch Attorney or Sollicitor ſhall be without all remedy to reco<g ref="char:EOLhyphen"/>ver the ſame againſt the Client at Law.</p>
+            <p n="12">12.<note place="margin">In Replevin at Common-law tender of a<g ref="char:EOLhyphen"/>mends before impounding in all caſes was a good Bar, and by the Statute 21 <hi>Jac.</hi> in treſ<g ref="char:EOLhyphen"/>paſs for involuntary Treſpaſſes, tender of amends is made a good plea, being done before Action brought: but becauſe many times impoundings and actions are made and brought, perhaps before the Defendant hath any knowledge of the Treſ<g ref="char:EOLhyphen"/>paſs, this propoſal is preſented: But for voluntary treſpaſſes it is conceived fit to leave them at the Common Law to prevent greater inconveniencies.</note> And for the further avoiding of the frivo<g ref="char:EOLhyphen"/>lous ſuits at Law, they humbly propoſe, that tender of ſufficient amends, with coſts for all in<g ref="char:EOLhyphen"/>voluntary Treſpaſſes, may be a good Bar in all Replevins and Actions of Treſpaſs brought for the ſame, ſo that the ſame be done before the Rules be out for pleading in ſuch Action.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
